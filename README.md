@@ -1,19 +1,21 @@
 # Santa's Logistics Dataset
 Ho Ho Ho, here we go!
 
-###**Disclaimer**: The description is related to all the Winter FAF Hackathon participants that have chosen the Santa's Challenge
-## About this dataset
+### Description
+
+**Disclaimer**: The description is related to all the Winter FAF Hackathon participants that have chosen the Santa's Challenge
+#### About this dataset
 Santas Logistics is an example dataset on how Santa does his logisitcs. It contains important information about every kid in the world.
 ## How the dataset was created
 It was generated with a help of few models and also constructed out of a few other datasets.
 
-## How to use this dataset
+#### How to use this dataset
 Use it for you analysis and app creating. Make Santa's life easier.
 
-## Can I re-create this dataset?
+#### Can I re-create this dataset?
 Ofc you can. If you feel like you lack data or the data you have is not good for you, feel free to use this df as an example, and make your own dataset.
 
-# Columns Descriptions
+### Columns
 
 - **`Child_ID`**: A unique number assigned to every kid.
 
@@ -35,4 +37,4 @@ Ofc you can. If you feel like you lack data or the data you have is not good for
 
 - **`School_Grades`**: Academic performance represented on a scale of 0 to 100 points, considering diverse grading systems.
 
-# GOOD LUCK!
+### GOOD LUCK!
