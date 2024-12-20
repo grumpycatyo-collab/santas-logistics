@@ -6,7 +6,7 @@ Ho Ho Ho, here we go!
 **Disclaimer**: The description is related to all the Winter FAF Hackathon participants that have chosen the Santa's Challenge
 #### About this dataset
 Santas Logistics is an example dataset on how Santa does his logisitcs. It contains important information about every kid in the world.
-## How the dataset was created
+#### How the dataset was created
 It was generated with a help of few models and also constructed out of a few other datasets.
 
 #### How to use this dataset
